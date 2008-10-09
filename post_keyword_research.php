@@ -1,7 +1,7 @@
 <?php
 /*
-Plugin Name: Post Keyword Research (Bloggerizer)
-Plugin URI: http://www.semvironment.com
+Plugin Name: Keyword Research
+Plugin URI: http://www.semvironment.com/keyword-research-wordpress-plugin/
 Description: Provides links for keyword research directly at the post and edit levels.
 Version: 1.0
 Author: semvironment
