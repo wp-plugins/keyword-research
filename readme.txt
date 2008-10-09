@@ -4,7 +4,7 @@ Donate link: http://www.semvironment.com
 Tags: keyword research bloggerizer
 Requires at least: 2.0.2
 Tested up to: 2.6
-Stable tag: 4.3
+Stable tag: 1.0
 
 Allows you to perform keyword research from your edit/post pages while writing. Opens a new window when you click on a research link.
 
